@@ -1,0 +1,21 @@
+body {
+color: black;
+background-color: cornsilk;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: darkmagenta;
+}
+
+#camera{
+    border: 2px dashed chocolate;
+    width: 350px;
+    height: 300px;
+
+}
+
